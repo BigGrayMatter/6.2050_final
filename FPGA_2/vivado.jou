@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Wed Dec  4 00:41:30 2024
+# Process ID: 20996
+# Current directory: C:/6.205_labs/FPGA_2
+# Command line: vivado.exe -mode batch -source build.tcl
+# Log file: C:/6.205_labs/FPGA_2/vivado.log
+# Journal file: C:/6.205_labs/FPGA_2\vivado.jou
+# Running On        :JacksLaptop
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :12th Gen Intel(R) Core(TM) i7-12700H
+# CPU Frequency     :2688 MHz
+# CPU Physical cores:14
+# CPU Logical cores :20
+# Host memory       :16834 MB
+# Swap memory       :19327 MB
+# Total Virtual     :36162 MB
+# Available Virtual :11743 MB
+#-----------------------------------------------------------
+source build.tcl
